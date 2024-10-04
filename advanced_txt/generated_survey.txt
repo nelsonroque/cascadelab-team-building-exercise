@@ -1,0 +1,284 @@
+[[AdvancedFormat]]
+
+[[Block:Main Block]]
+[[Question:MC]]
+[[ID:Data Analysis]]
+How comfortable are you with analyzing datasets to extract insights?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:People Interaction]]
+How comfortable are you with working directly with people?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Data Entry]]
+How comfortable are you with completing repetitive tasks like data entry?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Problem Solving]]
+How comfortable are you with solving complex problems?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Innovation]]
+How comfortable are you with coming up with new ideas or solutions?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Communication]]
+How comfortable are you with explaining complex ideas to others?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Teamwork]]
+How comfortable are you with collaborating in a team environment?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Autonomy]]
+How comfortable are you with working independently with minimal supervision?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Attention to Detail]]
+How comfortable are you with focusing on small details to ensure accuracy?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Big Picture Thinking]]
+How comfortable are you with considering long-term strategies in your work?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Leadership]]
+How comfortable are you with leading a team or project?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Technical Skills]]
+How comfortable are you with using the technical tools needed for your work?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Adaptability]]
+How comfortable are you with adjusting to new tasks or environments?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Creativity]]
+How comfortable are you with developing creative solutions to problems?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Time Management]]
+How comfortable are you with managing your time and meeting deadlines?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Process Optimization]]
+How comfortable are you with improving processes or workflows?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Mentorship]]
+How comfortable are you with providing guidance to others?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Risk Management]]
+How comfortable are you with assessing and managing risks?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Project Management]]
+How comfortable are you with organizing and managing projects?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Customer Focus]]
+How comfortable are you with understanding and addressing customer needs?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Initiative]]
+How comfortable are you with taking the initiative to start tasks without being prompted?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Team Self-Organization]]
+How comfortable are you with organizing a team to meet objectives?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Emotional Intelligence]]
+How comfortable are you with recognizing and managing emotions in yourself and others?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Conflict Resolution]]
+How comfortable are you with resolving conflicts within a team?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Decision Making]]
+How comfortable are you with making decisions under pressure?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Resilience]]
+How comfortable are you with handling setbacks or changes in your work?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Cultural Awareness]]
+How comfortable are you with working with people from diverse backgrounds?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Question:MC]]
+[[ID:Learning Agility]]
+How comfortable are you with quickly learning and applying new skills?
+[[Choices]]
+Not at all comfortable
+Slightly comfortable
+Moderately comfortable
+Very comfortable
+Extremely comfortable
+
+[[Block]]
