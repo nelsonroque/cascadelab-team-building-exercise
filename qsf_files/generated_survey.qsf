@@ -1,0 +1,1427 @@
+{
+  "SurveyEntry": {
+    "SurveyID": "SV_xxxx",
+    "SurveyName": "Team Attribute Evaluation",
+    "SurveyOwnerID": "UR_xxxx",
+    "SurveyBrandID": "yourBrandID",
+    "SurveyStatus": "Active",
+    "SurveyStartDate": "2024-01-01T00:00:00Z",
+    "SurveyExpirationDate": "2025-01-01T00:00:00Z",
+    "SurveyCreationDate": "2024-10-01T00:00:00Z",
+    "SurveyLanguage": "EN"
+  },
+  "SurveyElements": [
+    {
+      "SurveyID": "SV_xxxx",
+      "ElementID": "BL_xxxx",
+      "ElementType": "BL",
+      "ElementDescription": "Block 1",
+      "Payload": {
+        "Type": "Default",
+        "Description": "Block 1",
+        "BlockElements": [
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID1",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with analyzing datasets to extract insights?",
+              "DefaultChoices": false,
+              "DataExportTag": "Data Analysis",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Data Analysis",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID1",
+              "QuestionIDFromLocator": 1
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID2",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with working directly with people?",
+              "DefaultChoices": false,
+              "DataExportTag": "People Interaction",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "People Interaction",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID2",
+              "QuestionIDFromLocator": 2
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID3",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with completing repetitive tasks like data entry?",
+              "DefaultChoices": false,
+              "DataExportTag": "Data Entry",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Data Entry",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID3",
+              "QuestionIDFromLocator": 3
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID4",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with solving complex problems?",
+              "DefaultChoices": false,
+              "DataExportTag": "Problem Solving",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Problem Solving",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID4",
+              "QuestionIDFromLocator": 4
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID5",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with coming up with new ideas or solutions?",
+              "DefaultChoices": false,
+              "DataExportTag": "Innovation",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Innovation",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID5",
+              "QuestionIDFromLocator": 5
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID6",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with explaining complex ideas to others?",
+              "DefaultChoices": false,
+              "DataExportTag": "Communication",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Communication",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID6",
+              "QuestionIDFromLocator": 6
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID7",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with collaborating in a team environment?",
+              "DefaultChoices": false,
+              "DataExportTag": "Teamwork",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Teamwork",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID7",
+              "QuestionIDFromLocator": 7
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID8",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with working independently with minimal supervision?",
+              "DefaultChoices": false,
+              "DataExportTag": "Autonomy",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Autonomy",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID8",
+              "QuestionIDFromLocator": 8
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID9",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with focusing on small details to ensure accuracy?",
+              "DefaultChoices": false,
+              "DataExportTag": "Attention to Detail",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Attention to Detail",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID9",
+              "QuestionIDFromLocator": 9
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID10",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with considering long-term strategies in your work?",
+              "DefaultChoices": false,
+              "DataExportTag": "Big Picture Thinking",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Big Picture Thinking",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID10",
+              "QuestionIDFromLocator": 10
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID11",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with leading a team or project?",
+              "DefaultChoices": false,
+              "DataExportTag": "Leadership",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Leadership",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID11",
+              "QuestionIDFromLocator": 11
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID12",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with using the technical tools needed for your work?",
+              "DefaultChoices": false,
+              "DataExportTag": "Technical Skills",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Technical Skills",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID12",
+              "QuestionIDFromLocator": 12
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID13",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with adjusting to new tasks or environments?",
+              "DefaultChoices": false,
+              "DataExportTag": "Adaptability",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Adaptability",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID13",
+              "QuestionIDFromLocator": 13
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID14",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with developing creative solutions to problems?",
+              "DefaultChoices": false,
+              "DataExportTag": "Creativity",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Creativity",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID14",
+              "QuestionIDFromLocator": 14
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID15",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with managing your time and meeting deadlines?",
+              "DefaultChoices": false,
+              "DataExportTag": "Time Management",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Time Management",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID15",
+              "QuestionIDFromLocator": 15
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID16",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with improving processes or workflows?",
+              "DefaultChoices": false,
+              "DataExportTag": "Process Optimization",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Process Optimization",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID16",
+              "QuestionIDFromLocator": 16
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID17",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with providing guidance to others?",
+              "DefaultChoices": false,
+              "DataExportTag": "Mentorship",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Mentorship",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID17",
+              "QuestionIDFromLocator": 17
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID18",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with assessing and managing risks?",
+              "DefaultChoices": false,
+              "DataExportTag": "Risk Management",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Risk Management",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID18",
+              "QuestionIDFromLocator": 18
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID19",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with organizing and managing projects?",
+              "DefaultChoices": false,
+              "DataExportTag": "Project Management",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Project Management",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID19",
+              "QuestionIDFromLocator": 19
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID20",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with understanding and addressing customer needs?",
+              "DefaultChoices": false,
+              "DataExportTag": "Customer Focus",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Customer Focus",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID20",
+              "QuestionIDFromLocator": 20
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID21",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with taking the initiative to start tasks without being prompted?",
+              "DefaultChoices": false,
+              "DataExportTag": "Initiative",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Initiative",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID21",
+              "QuestionIDFromLocator": 21
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID22",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with organizing a team to meet objectives?",
+              "DefaultChoices": false,
+              "DataExportTag": "Team Self-Organization",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Team Self-Organization",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID22",
+              "QuestionIDFromLocator": 22
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID23",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with recognizing and managing emotions in yourself and others?",
+              "DefaultChoices": false,
+              "DataExportTag": "Emotional Intelligence",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Emotional Intelligence",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID23",
+              "QuestionIDFromLocator": 23
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID24",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with resolving conflicts within a team?",
+              "DefaultChoices": false,
+              "DataExportTag": "Conflict Resolution",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Conflict Resolution",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID24",
+              "QuestionIDFromLocator": 24
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID25",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with making decisions under pressure?",
+              "DefaultChoices": false,
+              "DataExportTag": "Decision Making",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Decision Making",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID25",
+              "QuestionIDFromLocator": 25
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID26",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with handling setbacks or changes in your work?",
+              "DefaultChoices": false,
+              "DataExportTag": "Resilience",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Resilience",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID26",
+              "QuestionIDFromLocator": 26
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID27",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with working with people from diverse backgrounds?",
+              "DefaultChoices": false,
+              "DataExportTag": "Cultural Awareness",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Cultural Awareness",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID27",
+              "QuestionIDFromLocator": 27
+            }
+          },
+          {
+            "SurveyID": "SV_xxxx",
+            "ElementID": "QID28",
+            "ElementType": "SQ",
+            "Payload": {
+              "QuestionText": "How comfortable are you with quickly learning and applying new skills?",
+              "DefaultChoices": false,
+              "DataExportTag": "Learning Agility",
+              "QuestionType": "MC",
+              "Selector": "SAVR",
+              "SubSelector": "TX",
+              "Configuration": {
+                "QuestionDescriptionOption": "UseText"
+              },
+              "QuestionDescription": "Learning Agility",
+              "Choices": {
+                "1": {
+                  "Display": "Not at all comfortable"
+                },
+                "2": {
+                  "Display": "Slightly comfortable"
+                },
+                "3": {
+                  "Display": "Moderately comfortable"
+                },
+                "4": {
+                  "Display": "Very comfortable"
+                },
+                "5": {
+                  "Display": "Extremely comfortable"
+                }
+              },
+              "ChoiceOrder": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "Validation": {
+                "Type": "None"
+              },
+              "GradingData": [],
+              "Language": [],
+              "NextChoiceId": 6,
+              "NextAnswerId": 1,
+              "QuestionID": "QID28",
+              "QuestionIDFromLocator": 28
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
